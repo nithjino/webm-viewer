@@ -1,6 +1,12 @@
 # Webm Viewer
 Why did I make this? I just wanted a simple way to view a folder of webm clips. I know I can just make any video player to open up a folder but that isn't any fun
 
+Main repo here: https://gitlab.com/bunu/webm-viewer
+
+This repo is just a copy of my gitlab repo. There is no guarantee that this repo will be up-to-date
+
+Check out my gitlab if you want that.
+
 ## Requirements:
 * Python 3
 * [PyQt](https://www.riverbankcomputing.com/software/pyqt/download5)
